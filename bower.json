@@ -7,5 +7,6 @@
     "danialf <danial.farid@gmail.com>"
   ],
   "description": "shim for anuglar-file-upload",
+  "ignore": [],
   "license": "MIT"
  }
