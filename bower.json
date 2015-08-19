@@ -3,7 +3,7 @@
   "main": "ng-file-upload-shim.js",
   "homepage": "https://github.com/danialfarid/ng-file-upload",
   "dependencies": {
-    "angular": ">1.0.6",
+    "angular": ">1.2.0",
     "ng-file-upload": ">6.0.3"
   },
   "authors": [
